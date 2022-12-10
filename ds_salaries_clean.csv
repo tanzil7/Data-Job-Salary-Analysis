@@ -1,0 +1,929 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,employee_residence,remote_ratio,remote_work_type,company_location,company_size,job_category,exchange_rate,salary_in_usd,experience_level_description,employment_type_description,country_name
+2020,MI,FT,Data Scientist,70000.0,EUR,DE,0,On-site only,DE,L,Data Science,0.876,79909.0,Mid-level (Junior),Full-time,Germany
+2020,MI,FT,Data Scientist,70000.0,EUR,DE,0,On-site only,DE,L,Data Science,0.845,82840.0,Mid-level (Junior),Full-time,Germany
+2020,MI,FT,Data Scientist,70000.0,EUR,DE,0,On-site only,DE,L,Data Science,1.0093,69355.0,Mid-level (Junior),Full-time,Germany
+2020,MI,FT,Data Engineering Manager,51999.0,EUR,DE,100,Fully remote,DE,S,Leadership (DE),0.876,59360.0,Mid-level (Junior),Full-time,Germany
+2020,MI,FT,Data Engineering Manager,51999.0,EUR,DE,100,Fully remote,DE,S,Leadership (DE),0.845,61537.0,Mid-level (Junior),Full-time,Germany
+2020,MI,FT,Data Engineering Manager,51999.0,EUR,DE,100,Fully remote,DE,S,Leadership (DE),1.0093,51520.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,76760.0,EUR,DE,50,Hybird,DE,L,Data Science,0.876,87626.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,76760.0,EUR,DE,50,Hybird,DE,L,Data Science,0.845,90840.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,76760.0,EUR,DE,50,Hybird,DE,L,Data Science,1.0093,76053.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,75000.0,EUR,DE,50,Hybird,DE,L,Data Science,0.876,85616.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,75000.0,EUR,DE,50,Hybird,DE,L,Data Science,0.845,88757.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,75000.0,EUR,DE,50,Hybird,DE,L,Data Science,1.0093,74309.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,21600.0,EUR,RS,100,Fully remote,DE,S,Data Science,0.876,24658.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,21600.0,EUR,RS,100,Fully remote,DE,S,Data Science,0.845,25562.0,Mid-level (Junior),Full-time,Germany
+2021,MI,FT,Data Scientist,21600.0,EUR,RS,100,Fully remote,DE,S,Data Science,1.0093,21401.0,Mid-level (Junior),Full-time,Germany
+2022,MI,FT,Machine Learning Engineer,80000.0,EUR,FR,100,Fully remote,DE,M,Machine Learning,0.876,91324.0,Mid-level (Junior),Full-time,Germany
+2022,MI,FT,Machine Learning Engineer,80000.0,EUR,FR,100,Fully remote,DE,M,Machine Learning,0.845,94675.0,Mid-level (Junior),Full-time,Germany
+2022,MI,FT,Machine Learning Engineer,80000.0,EUR,FR,100,Fully remote,DE,M,Machine Learning,1.0093,79263.0,Mid-level (Junior),Full-time,Germany
+2020,EN,FT,Data Engineer,48000.0,EUR,PK,100,Fully remote,DE,L,Data Engineering,0.876,54795.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Engineer,48000.0,EUR,PK,100,Fully remote,DE,L,Data Engineering,0.845,56805.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Engineer,48000.0,EUR,PK,100,Fully remote,DE,L,Data Engineering,1.0093,47558.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,55000.0,EUR,DE,50,Hybird,DE,S,Data Science,0.876,62785.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,55000.0,EUR,DE,50,Hybird,DE,S,Data Science,0.845,65089.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,55000.0,EUR,DE,50,Hybird,DE,S,Data Science,1.0093,54493.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,43200.0,EUR,DE,0,On-site only,DE,S,Data Science,0.876,49315.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,43200.0,EUR,DE,0,On-site only,DE,S,Data Science,0.845,51124.0,Entry-level,Full-time,Germany
+2020,EN,FT,Data Scientist,43200.0,EUR,DE,0,On-site only,DE,S,Data Science,1.0093,42802.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,100,Fully remote,DE,S,Data Science,0.876,74201.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,100,Fully remote,DE,S,Data Science,0.845,76923.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,100,Fully remote,DE,S,Data Science,1.0093,64401.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,54000.0,EUR,DE,50,Hybird,DE,L,Data Science,0.876,61644.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,54000.0,EUR,DE,50,Hybird,DE,L,Data Science,0.845,63905.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,54000.0,EUR,DE,50,Hybird,DE,L,Data Science,1.0093,53502.0,Entry-level,Full-time,Germany
+2021,EN,FT,Machine Learning Engineer,21000.0,EUR,DE,50,Hybird,DE,M,Machine Learning,0.876,23973.0,Entry-level,Full-time,Germany
+2021,EN,FT,Machine Learning Engineer,21000.0,EUR,DE,50,Hybird,DE,M,Machine Learning,0.845,24852.0,Entry-level,Full-time,Germany
+2021,EN,FT,Machine Learning Engineer,21000.0,EUR,DE,50,Hybird,DE,M,Machine Learning,1.0093,20806.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,0,On-site only,DE,L,Data Science,0.876,74201.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,0,On-site only,DE,L,Data Science,0.845,76923.0,Entry-level,Full-time,Germany
+2021,EN,FT,Data Science Consultant,65000.0,EUR,DE,0,On-site only,DE,L,Data Science,1.0093,64401.0,Entry-level,Full-time,Germany
+2022,EN,FT,Data Engineer,52800.0,EUR,PK,100,Fully remote,DE,M,Data Engineering,0.876,60274.0,Entry-level,Full-time,Germany
+2022,EN,FT,Data Engineer,52800.0,EUR,PK,100,Fully remote,DE,M,Data Engineering,0.845,62485.0,Entry-level,Full-time,Germany
+2022,EN,FT,Data Engineer,52800.0,EUR,PK,100,Fully remote,DE,M,Data Engineering,1.0093,52313.0,Entry-level,Full-time,Germany
+2021,EN,FT,Machine Learning Engineer,85000.0,USD,NL,100,Fully remote,DE,S,Machine Learning,1.0,85000.0,Entry-level,Full-time,Germany
+2020,SE,FT,Principal Data Scientist,130000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.876,148402.0,Senior-level (Intermediate),Full-time,Germany
+2020,SE,FT,Principal Data Scientist,130000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.845,153846.0,Senior-level (Intermediate),Full-time,Germany
+2020,SE,FT,Principal Data Scientist,130000.0,EUR,DE,100,Fully remote,DE,M,Data Science,1.0093,128802.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analytics Engineer,67000.0,EUR,DE,100,Fully remote,DE,L,Data Engineering,0.876,76484.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analytics Engineer,67000.0,EUR,DE,100,Fully remote,DE,L,Data Engineering,0.845,79290.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analytics Engineer,67000.0,EUR,DE,100,Fully remote,DE,L,Data Engineering,1.0093,66383.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Machine Learning Engineer,80000.0,EUR,DE,50,Hybird,DE,L,Machine Learning,0.876,91324.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Machine Learning Engineer,80000.0,EUR,DE,50,Hybird,DE,L,Machine Learning,0.845,94675.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Machine Learning Engineer,80000.0,EUR,DE,50,Hybird,DE,L,Machine Learning,1.0093,79263.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Principal Data Scientist,147000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.876,167808.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Principal Data Scientist,147000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.845,173964.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Principal Data Scientist,147000.0,EUR,DE,100,Fully remote,DE,M,Data Science,1.0093,145645.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analyst,54000.0,EUR,DE,50,Hybird,DE,L,Data Analyst,0.876,61644.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analyst,54000.0,EUR,DE,50,Hybird,DE,L,Data Analyst,0.845,63905.0,Senior-level (Intermediate),Full-time,Germany
+2021,SE,FT,Data Analyst,54000.0,EUR,DE,50,Hybird,DE,L,Data Analyst,1.0093,53502.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Lead Machine Learning Engineer,80000.0,EUR,DE,0,On-site only,DE,M,Machine Learning,0.876,91324.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Lead Machine Learning Engineer,80000.0,EUR,DE,0,On-site only,DE,M,Machine Learning,0.845,94675.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Lead Machine Learning Engineer,80000.0,EUR,DE,0,On-site only,DE,M,Machine Learning,1.0093,79263.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Principal Data Scientist,148000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.876,168950.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Principal Data Scientist,148000.0,EUR,DE,100,Fully remote,DE,M,Data Science,0.845,175148.0,Senior-level (Intermediate),Full-time,Germany
+2022,SE,FT,Principal Data Scientist,148000.0,EUR,DE,100,Fully remote,DE,M,Data Science,1.0093,146636.0,Senior-level (Intermediate),Full-time,Germany
+2021,EX,FT,Director of Data Science,110000.0,EUR,DE,50,Hybird,DE,M,Leadership (DS),0.876,125571.0,Executive-level / Director (Expert),Full-time,Germany
+2021,EX,FT,Director of Data Science,110000.0,EUR,DE,50,Hybird,DE,M,Leadership (DS),0.845,130178.0,Executive-level / Director (Expert),Full-time,Germany
+2021,EX,FT,Director of Data Science,110000.0,EUR,DE,50,Hybird,DE,M,Leadership (DS),1.0093,108986.0,Executive-level / Director (Expert),Full-time,Germany
+2021,EX,FT,Director of Data Science,120000.0,EUR,DE,0,On-site only,DE,L,Leadership (DS),0.876,136986.0,Executive-level / Director (Expert),Full-time,Germany
+2021,EX,FT,Director of Data Science,120000.0,EUR,DE,0,On-site only,DE,L,Leadership (DS),0.845,142012.0,Executive-level / Director (Expert),Full-time,Germany
+2021,EX,FT,Director of Data Science,120000.0,EUR,DE,0,On-site only,DE,L,Leadership (DS),1.0093,118894.0,Executive-level / Director (Expert),Full-time,Germany
+2022,MI,PT,Data Engineer,50000.0,EUR,DE,50,Hybird,DE,L,Data Engineering,0.876,57078.0,Mid-level (Junior),Part-time,Germany
+2022,MI,PT,Data Engineer,50000.0,EUR,DE,50,Hybird,DE,L,Data Engineering,0.845,59172.0,Mid-level (Junior),Part-time,Germany
+2022,MI,PT,Data Engineer,50000.0,EUR,DE,50,Hybird,DE,L,Data Engineering,1.0093,49539.0,Mid-level (Junior),Part-time,Germany
+2020,EN,PT,ML Engineer,14000.0,EUR,DE,100,Fully remote,DE,S,Machine Learning,0.876,15982.0,Entry-level,Part-time,Germany
+2020,EN,PT,ML Engineer,14000.0,EUR,DE,100,Fully remote,DE,S,Machine Learning,0.845,16568.0,Entry-level,Part-time,Germany
+2020,EN,PT,ML Engineer,14000.0,EUR,DE,100,Fully remote,DE,S,Machine Learning,1.0093,13871.0,Entry-level,Part-time,Germany
+2020,MI,FT,Data Analyst,41000.0,EUR,FR,50,Hybird,FR,L,Data Analyst,0.876,46804.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Analyst,41000.0,EUR,FR,50,Hybird,FR,L,Data Analyst,0.845,48521.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Analyst,41000.0,EUR,FR,50,Hybird,FR,L,Data Analyst,1.0093,40622.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Engineer,61500.0,EUR,FR,50,Hybird,FR,L,Data Engineering,0.876,70205.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Engineer,61500.0,EUR,FR,50,Hybird,FR,L,Data Engineering,0.845,72781.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Engineer,61500.0,EUR,FR,50,Hybird,FR,L,Data Engineering,1.0093,60933.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Scientist,37000.0,EUR,FR,50,Hybird,FR,S,Data Science,0.876,42237.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Scientist,37000.0,EUR,FR,50,Hybird,FR,S,Data Science,0.845,43787.0,Mid-level (Junior),Full-time,France
+2020,MI,FT,Data Scientist,37000.0,EUR,FR,50,Hybird,FR,S,Data Science,1.0093,36659.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,53000.0,EUR,FR,50,Hybird,FR,M,Research,0.876,60502.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,53000.0,EUR,FR,50,Hybird,FR,M,Research,0.845,62722.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,53000.0,EUR,FR,50,Hybird,FR,M,Research,1.0093,52512.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,48000.0,EUR,FR,50,Hybird,FR,S,Research,0.876,54795.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,48000.0,EUR,FR,50,Hybird,FR,S,Research,0.845,56805.0,Mid-level (Junior),Full-time,France
+2021,MI,FT,Research Scientist,48000.0,EUR,FR,50,Hybird,FR,S,Research,1.0093,47558.0,Mid-level (Junior),Full-time,France
+2022,MI,FT,Data Engineer,62000.0,EUR,FR,100,Fully remote,FR,M,Data Engineering,0.876,70776.0,Mid-level (Junior),Full-time,France
+2022,MI,FT,Data Engineer,62000.0,EUR,FR,100,Fully remote,FR,M,Data Engineering,0.845,73373.0,Mid-level (Junior),Full-time,France
+2022,MI,FT,Data Engineer,62000.0,EUR,FR,100,Fully remote,FR,M,Data Engineering,1.0093,61429.0,Mid-level (Junior),Full-time,France
+2020,EN,FT,Data Scientist,45000.0,EUR,FR,0,On-site only,FR,S,Data Science,0.876,51370.0,Entry-level,Full-time,France
+2020,EN,FT,Data Scientist,45000.0,EUR,FR,0,On-site only,FR,S,Data Science,0.845,53254.0,Entry-level,Full-time,France
+2020,EN,FT,Data Scientist,45000.0,EUR,FR,0,On-site only,FR,S,Data Science,1.0093,44585.0,Entry-level,Full-time,France
+2020,EN,FT,Data Scientist,35000.0,EUR,FR,0,On-site only,FR,M,Data Science,0.876,39954.0,Entry-level,Full-time,France
+2020,EN,FT,Data Scientist,35000.0,EUR,FR,0,On-site only,FR,M,Data Science,0.845,41420.0,Entry-level,Full-time,France
+2020,EN,FT,Data Scientist,35000.0,EUR,FR,0,On-site only,FR,M,Data Science,1.0093,34677.0,Entry-level,Full-time,France
+2021,EN,FT,Data Analyst,50000.0,EUR,FR,50,Hybird,FR,M,Data Analyst,0.876,57078.0,Entry-level,Full-time,France
+2021,EN,FT,Data Analyst,50000.0,EUR,FR,50,Hybird,FR,M,Data Analyst,0.845,59172.0,Entry-level,Full-time,France
+2021,EN,FT,Data Analyst,50000.0,EUR,FR,50,Hybird,FR,M,Data Analyst,1.0093,49539.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,42000.0,EUR,FR,50,Hybird,FR,M,Data Science,0.876,47945.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,42000.0,EUR,FR,50,Hybird,FR,M,Data Science,0.845,49704.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,42000.0,EUR,FR,50,Hybird,FR,M,Data Science,1.0093,41613.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,31000.0,EUR,FR,50,Hybird,FR,L,Data Science,0.876,35388.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,31000.0,EUR,FR,50,Hybird,FR,L,Data Science,0.845,36686.0,Entry-level,Full-time,France
+2021,EN,FT,Data Scientist,31000.0,EUR,FR,50,Hybird,FR,L,Data Science,1.0093,30714.0,Entry-level,Full-time,France
+2021,SE,FT,Data Scientist,45000.0,EUR,FR,50,Hybird,FR,L,Data Science,0.876,51370.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Scientist,45000.0,EUR,FR,50,Hybird,FR,L,Data Science,0.845,53254.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Scientist,45000.0,EUR,FR,50,Hybird,FR,L,Data Science,1.0093,44585.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Scientist,65720.0,EUR,FR,50,Hybird,FR,M,Data Science,0.876,75023.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Scientist,65720.0,EUR,FR,50,Hybird,FR,M,Data Science,0.845,77775.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Scientist,65720.0,EUR,FR,50,Hybird,FR,M,Data Science,1.0093,65114.0,Senior-level (Intermediate),Full-time,France
+2022,SE,FT,Research Scientist,85000.0,EUR,FR,50,Hybird,FR,L,Research,0.876,97032.0,Senior-level (Intermediate),Full-time,France
+2022,SE,FT,Research Scientist,85000.0,EUR,FR,50,Hybird,FR,L,Research,0.845,100592.0,Senior-level (Intermediate),Full-time,France
+2022,SE,FT,Research Scientist,85000.0,EUR,FR,50,Hybird,FR,L,Research,1.0093,84217.0,Senior-level (Intermediate),Full-time,France
+2021,SE,FT,Data Science Manager,152000.0,USD,US,100,Fully remote,FR,L,Leadership (DS),1.0,152000.0,Senior-level (Intermediate),Full-time,France
+2020,MI,FT,Data Engineer,65000.0,EUR,AT,50,Hybird,AT,L,Data Engineering,0.876,74201.0,Mid-level (Junior),Full-time,Austria
+2020,MI,FT,Data Engineer,65000.0,EUR,AT,50,Hybird,AT,L,Data Engineering,0.845,76923.0,Mid-level (Junior),Full-time,Austria
+2020,MI,FT,Data Engineer,65000.0,EUR,AT,50,Hybird,AT,L,Data Engineering,1.0093,64401.0,Mid-level (Junior),Full-time,Austria
+2021,MI,FT,Data Scientist,52000.0,EUR,DE,50,Hybird,AT,M,Data Science,0.876,59361.0,Mid-level (Junior),Full-time,Austria
+2021,MI,FT,Data Scientist,52000.0,EUR,DE,50,Hybird,AT,M,Data Science,0.845,61538.0,Mid-level (Junior),Full-time,Austria
+2021,MI,FT,Data Scientist,52000.0,EUR,DE,50,Hybird,AT,M,Data Science,1.0093,51521.0,Mid-level (Junior),Full-time,Austria
+2022,MI,FT,Research Scientist,59000.0,EUR,AT,0,On-site only,AT,L,Research,0.876,67352.0,Mid-level (Junior),Full-time,Austria
+2022,MI,FT,Research Scientist,59000.0,EUR,AT,0,On-site only,AT,L,Research,0.845,69822.0,Mid-level (Junior),Full-time,Austria
+2022,MI,FT,Research Scientist,59000.0,EUR,AT,0,On-site only,AT,L,Research,1.0093,58456.0,Mid-level (Junior),Full-time,Austria
+2020,SE,FT,Data Scientist,80000.0,EUR,AT,0,On-site only,AT,S,Data Science,0.876,91324.0,Senior-level (Intermediate),Full-time,Austria
+2020,SE,FT,Data Scientist,80000.0,EUR,AT,0,On-site only,AT,S,Data Science,0.845,94675.0,Senior-level (Intermediate),Full-time,Austria
+2020,SE,FT,Data Scientist,80000.0,EUR,AT,0,On-site only,AT,S,Data Science,1.0093,79263.0,Senior-level (Intermediate),Full-time,Austria
+2020,MI,FT,Machine Learning Infrastructure Engineer,44000.0,EUR,PT,0,On-site only,PT,M,Machine Learning,0.876,50228.0,Mid-level (Junior),Full-time,Portugal
+2020,MI,FT,Machine Learning Infrastructure Engineer,44000.0,EUR,PT,0,On-site only,PT,M,Machine Learning,0.845,52071.0,Mid-level (Junior),Full-time,Portugal
+2020,MI,FT,Machine Learning Infrastructure Engineer,44000.0,EUR,PT,0,On-site only,PT,M,Machine Learning,1.0093,43595.0,Mid-level (Junior),Full-time,Portugal
+2022,MI,FT,Machine Learning Infrastructure Engineer,53000.0,EUR,PT,50,Hybird,PT,L,Machine Learning,0.876,60502.0,Mid-level (Junior),Full-time,Portugal
+2022,MI,FT,Machine Learning Infrastructure Engineer,53000.0,EUR,PT,50,Hybird,PT,L,Machine Learning,0.845,62722.0,Mid-level (Junior),Full-time,Portugal
+2022,MI,FT,Machine Learning Infrastructure Engineer,53000.0,EUR,PT,50,Hybird,PT,L,Machine Learning,1.0093,52512.0,Mid-level (Junior),Full-time,Portugal
+2022,EN,FT,ML Engineer,20000.0,EUR,PT,100,Fully remote,PT,L,Machine Learning,0.876,22831.0,Entry-level,Full-time,Portugal
+2022,EN,FT,ML Engineer,20000.0,EUR,PT,100,Fully remote,PT,L,Machine Learning,0.845,23669.0,Entry-level,Full-time,Portugal
+2022,EN,FT,ML Engineer,20000.0,EUR,PT,100,Fully remote,PT,L,Machine Learning,1.0093,19816.0,Entry-level,Full-time,Portugal
+2021,SE,FT,Research Scientist,51400.0,EUR,PT,50,Hybird,PT,L,Research,0.876,58676.0,Senior-level (Intermediate),Full-time,Portugal
+2021,SE,FT,Research Scientist,51400.0,EUR,PT,50,Hybird,PT,L,Research,0.845,60828.0,Senior-level (Intermediate),Full-time,Portugal
+2021,SE,FT,Research Scientist,51400.0,EUR,PT,50,Hybird,PT,L,Research,1.0093,50926.0,Senior-level (Intermediate),Full-time,Portugal
+2020,MI,FT,Data Scientist,34000.0,EUR,ES,100,Fully remote,ES,M,Data Science,0.876,38813.0,Mid-level (Junior),Full-time,Spain
+2020,MI,FT,Data Scientist,34000.0,EUR,ES,100,Fully remote,ES,M,Data Science,0.845,40237.0,Mid-level (Junior),Full-time,Spain
+2020,MI,FT,Data Scientist,34000.0,EUR,ES,100,Fully remote,ES,M,Data Science,1.0093,33687.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Machine Learning Engineer,40000.0,EUR,ES,100,Fully remote,ES,S,Machine Learning,0.876,45662.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Machine Learning Engineer,40000.0,EUR,ES,100,Fully remote,ES,S,Machine Learning,0.845,47337.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Machine Learning Engineer,40000.0,EUR,ES,100,Fully remote,ES,S,Machine Learning,1.0093,39631.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,32000.0,EUR,ES,100,Fully remote,ES,L,Data Science,0.876,36530.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,32000.0,EUR,ES,100,Fully remote,ES,L,Data Science,0.845,37870.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,32000.0,EUR,ES,100,Fully remote,ES,L,Data Science,1.0093,31705.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,39600.0,EUR,ES,100,Fully remote,ES,M,Data Science,0.876,45205.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,39600.0,EUR,ES,100,Fully remote,ES,M,Data Science,0.845,46864.0,Mid-level (Junior),Full-time,Spain
+2021,MI,FT,Data Scientist,39600.0,EUR,ES,100,Fully remote,ES,M,Data Science,1.0093,39235.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,45000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.876,51370.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,45000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.845,53254.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,45000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,1.0093,44585.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Analyst,30000.0,EUR,ES,100,Fully remote,ES,M,Data Analyst,0.876,34247.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Analyst,30000.0,EUR,ES,100,Fully remote,ES,M,Data Analyst,0.845,35503.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Analyst,30000.0,EUR,ES,100,Fully remote,ES,M,Data Analyst,1.0093,29724.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,80000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.876,91324.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,80000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.845,94675.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,80000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,1.0093,79263.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,70000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.876,79909.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,70000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.845,82840.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,70000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,1.0093,69355.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,60000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.876,68493.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,60000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,0.845,71006.0,Mid-level (Junior),Full-time,Spain
+2022,MI,FT,Data Engineer,60000.0,EUR,ES,100,Fully remote,ES,M,Data Engineering,1.0093,59447.0,Mid-level (Junior),Full-time,Spain
+2021,SE,FT,AI Scientist,55000.0,USD,ES,100,Fully remote,ES,L,Artificial Intelligence,1.0,55000.0,Senior-level (Intermediate),Full-time,Spain
+2020,EX,FT,Data Engineering Manager,70000.0,EUR,ES,50,Hybird,ES,L,Leadership (DE),0.876,79909.0,Executive-level / Director (Expert),Full-time,Spain
+2020,EX,FT,Data Engineering Manager,70000.0,EUR,ES,50,Hybird,ES,L,Leadership (DE),0.845,82840.0,Executive-level / Director (Expert),Full-time,Spain
+2020,EX,FT,Data Engineering Manager,70000.0,EUR,ES,50,Hybird,ES,L,Leadership (DE),1.0093,69355.0,Executive-level / Director (Expert),Full-time,Spain
+2021,EX,FT,Data Science Consultant,59000.0,EUR,FR,100,Fully remote,ES,S,Data Science,0.876,67352.0,Executive-level / Director (Expert),Full-time,Spain
+2021,EX,FT,Data Science Consultant,59000.0,EUR,FR,100,Fully remote,ES,S,Data Science,0.845,69822.0,Executive-level / Director (Expert),Full-time,Spain
+2021,EX,FT,Data Science Consultant,59000.0,EUR,FR,100,Fully remote,ES,S,Data Science,1.0093,58456.0,Executive-level / Director (Expert),Full-time,Spain
+2021,EN,PT,Data Analyst,8760.0,EUR,ES,50,Hybird,ES,M,Data Analyst,0.876,10000.0,Entry-level,Part-time,Spain
+2021,EN,PT,Data Analyst,8760.0,EUR,ES,50,Hybird,ES,M,Data Analyst,0.845,10367.0,Entry-level,Part-time,Spain
+2021,EN,PT,Data Analyst,8760.0,EUR,ES,50,Hybird,ES,M,Data Analyst,1.0093,8679.0,Entry-level,Part-time,Spain
+2020,MI,FT,Data Scientist,55000.0,EUR,FR,50,Hybird,LU,S,Data Science,0.876,62785.0,Mid-level (Junior),Full-time,Luxembourg
+2020,MI,FT,Data Scientist,55000.0,EUR,FR,50,Hybird,LU,S,Data Science,0.845,65089.0,Mid-level (Junior),Full-time,Luxembourg
+2020,MI,FT,Data Scientist,55000.0,EUR,FR,50,Hybird,LU,S,Data Science,1.0093,54493.0,Mid-level (Junior),Full-time,Luxembourg
+2021,EN,FT,Business Data Analyst,50000.0,EUR,LU,100,Fully remote,LU,L,Data Analyst,0.876,57078.0,Entry-level,Full-time,Luxembourg
+2021,EN,FT,Business Data Analyst,50000.0,EUR,LU,100,Fully remote,LU,L,Data Analyst,0.845,59172.0,Entry-level,Full-time,Luxembourg
+2021,EN,FT,Business Data Analyst,50000.0,EUR,LU,100,Fully remote,LU,L,Data Analyst,1.0093,49539.0,Entry-level,Full-time,Luxembourg
+2022,EN,FT,Computer Vision Engineer,10000.0,USD,PT,100,Fully remote,LU,M,Artificial Intelligence,1.0,10000.0,Entry-level,Full-time,Luxembourg
+2021,MI,FT,Computer Vision Software Engineer,81000.0,EUR,DE,100,Fully remote,US,S,Artificial Intelligence,0.876,92466.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Computer Vision Software Engineer,81000.0,EUR,DE,100,Fully remote,US,S,Artificial Intelligence,0.845,95858.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Computer Vision Software Engineer,81000.0,EUR,DE,100,Fully remote,US,S,Artificial Intelligence,1.0093,80254.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,22000.0,EUR,RO,0,On-site only,US,L,Data Engineering,0.876,25114.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,22000.0,EUR,RO,0,On-site only,US,L,Data Engineering,0.845,26036.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,22000.0,EUR,RO,0,On-site only,US,L,Data Engineering,1.0093,21797.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Business Data Analyst,135000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,135000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Lead Data Analyst,87000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,87000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Analyst,85000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,85000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,BI Data Analyst,98000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,98000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Research Scientist,450000.0,USD,US,0,On-site only,US,M,Research,1.0,450000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Science Consultant,103000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,103000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Engineer,106000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,106000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Scientist,118000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,118000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Scientist,138350.0,USD,US,100,Fully remote,US,M,Data Science,1.0,138350.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Engineer,110000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,110000.0,Mid-level (Junior),Full-time,United States
+2020,MI,FT,Data Engineer,130800.0,USD,ES,100,Fully remote,US,M,Data Engineering,1.0,130800.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,BI Data Analyst,100000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,100000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,140000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,140000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analytics Engineer,110000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,110000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Financial Data Analyst,450000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,450000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,75000.0,USD,US,0,On-site only,US,L,Data Analyst,1.0,75000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,62000.0,USD,US,0,On-site only,US,L,Data Analyst,1.0,62000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,73000.0,USD,US,0,On-site only,US,L,Data Science,1.0,73000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,200000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,200000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Principal Data Scientist,151000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,151000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Applied Machine Learning Scientist,38400.0,USD,VN,100,Fully remote,US,M,Machine Learning,1.0,38400.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,90000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,90000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,135000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,135000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,82500.0,USD,US,100,Fully remote,US,S,Data Science,1.0,82500.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,100000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,100000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,90000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,90000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,150000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,150000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Applied Machine Learning Scientist,423000.0,USD,US,50,Hybird,US,L,Machine Learning,1.0,423000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Architect,150000.0,USD,US,100,Fully remote,US,L,Data Architect,1.0,150000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Architect,170000.0,USD,US,100,Fully remote,US,L,Data Architect,1.0,170000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,147000.0,USD,US,50,Hybird,US,L,Data Science,1.0,147000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,160000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,160000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Architect,180000.0,USD,US,100,Fully remote,US,L,Data Architect,1.0,180000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,80000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,80000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,110000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,110000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,115000.0,USD,US,50,Hybird,US,L,Data Science,1.0,115000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Analyst,93000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,93000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,130000.0,USD,US,50,Hybird,US,L,Data Science,1.0,130000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,93150.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,93150.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,111775.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,111775.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Engineer,112000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,112000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,Data Scientist,109000.0,USD,US,50,Hybird,US,L,Data Science,1.0,109000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,130000.0,USD,US,0,On-site only,US,M,Data Science,1.0,130000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,90000.0,USD,US,0,On-site only,US,M,Data Science,1.0,90000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,170000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,170000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,150000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,150000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,106260.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,106260.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,126500.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,126500.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,115500.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,115500.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,167000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,167000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,58000.0,USD,US,0,On-site only,US,S,Data Analyst,1.0,58000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,AI Scientist,120000.0,USD,US,0,On-site only,US,M,Artificial Intelligence,1.0,120000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,63900.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,63900.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Machine Learning Scientist,160000.0,USD,US,100,Fully remote,US,L,Machine Learning,1.0,160000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Machine Learning Scientist,112300.0,USD,US,100,Fully remote,US,L,Machine Learning,1.0,112300.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Science Manager,241000.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,241000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Science Manager,159000.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,159000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,82900.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,82900.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Machine Learning Engineer,120000.0,USD,US,100,Fully remote,US,S,Machine Learning,1.0,120000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,135000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,135000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Analyst,50000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,50000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,200000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,200000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,120000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,120000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Machine Learning Scientist,153000.0,USD,US,50,Hybird,US,M,Machine Learning,1.0,153000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Applied Machine Learning Scientist,75000.0,USD,BO,100,Fully remote,US,L,Machine Learning,1.0,75000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Applied Data Scientist,157000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,157000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,48000.0,USD,RU,100,Fully remote,US,S,Data Science,1.0,48000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,135000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,135000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,78000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,78000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,141300.0,USD,US,0,On-site only,US,M,Data Science,1.0,141300.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,102100.0,USD,US,0,On-site only,US,M,Data Science,1.0,102100.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,206699.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,206699.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Engineer,99100.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,99100.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,160000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,160000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,Data Scientist,130000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,130000.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,AI Scientist,200000.0,USD,IN,100,Fully remote,US,L,Artificial Intelligence,1.0,200000.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,BI Data Analyst,11000000.0,HUF,HU,50,Hybird,US,L,Data Analyst,307.997,35715.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,BI Data Analyst,11000000.0,HUF,HU,50,Hybird,US,L,Data Analyst,303.141,36287.0,Mid-level (Junior),Full-time,United States
+2021,MI,FT,BI Data Analyst,11000000.0,HUF,HU,50,Hybird,US,L,Data Analyst,408.1759,26949.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,NLP Engineer,240000.0,CNY,US,50,Hybird,US,L,Machine Learning,6.901,34778.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,NLP Engineer,240000.0,CNY,US,50,Hybird,US,L,Machine Learning,6.449,37215.0,Mid-level (Junior),Full-time,United States
+2022,MI,FT,NLP Engineer,240000.0,CNY,US,50,Hybird,US,L,Machine Learning,7.0089,34242.0,Mid-level (Junior),Full-time,United States
+2020,EN,FT,Data Analyst,72000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,72000.0,Entry-level,Full-time,United States
+2020,EN,FT,Big Data Engineer,70000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,70000.0,Entry-level,Full-time,United States
+2020,EN,FT,Machine Learning Engineer,250000.0,USD,US,50,Hybird,US,L,Machine Learning,1.0,250000.0,Entry-level,Full-time,United States
+2020,EN,FT,Machine Learning Engineer,138000.0,USD,US,100,Fully remote,US,S,Machine Learning,1.0,138000.0,Entry-level,Full-time,United States
+2020,EN,FT,Data Analyst,91000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,91000.0,Entry-level,Full-time,United States
+2020,EN,FT,Data Scientist,105000.0,USD,US,100,Fully remote,US,S,Data Science,1.0,105000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Analyst,80000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,80000.0,Entry-level,Full-time,United States
+2021,EN,FT,Computer Vision Software Engineer,70000.0,USD,US,100,Fully remote,US,M,Artificial Intelligence,1.0,70000.0,Entry-level,Full-time,United States
+2021,EN,FT,Machine Learning Scientist,225000.0,USD,US,100,Fully remote,US,L,Machine Learning,1.0,225000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Analyst,90000.0,USD,US,100,Fully remote,US,S,Data Analyst,1.0,90000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Analyst,50000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,50000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Scientist,100000.0,USD,US,0,On-site only,US,S,Data Science,1.0,100000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Scientist,80000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,80000.0,Entry-level,Full-time,United States
+2021,EN,FT,Machine Learning Engineer,125000.0,USD,US,100,Fully remote,US,S,Machine Learning,1.0,125000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Engineer,80000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,80000.0,Entry-level,Full-time,United States
+2021,EN,FT,BI Data Analyst,55000.0,USD,US,50,Hybird,US,S,Data Analyst,1.0,55000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Analyst,60000.0,USD,US,100,Fully remote,US,S,Data Analyst,1.0,60000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Science Consultant,90000.0,USD,US,100,Fully remote,US,S,Data Science,1.0,90000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Scientist,90000.0,USD,US,100,Fully remote,US,S,Data Science,1.0,90000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Engineer,72500.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,72500.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Scientist,100000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,100000.0,Entry-level,Full-time,United States
+2021,EN,FT,Data Scientist,58000.0,USD,US,50,Hybird,US,L,Data Science,1.0,58000.0,Entry-level,Full-time,United States
+2022,EN,FT,Computer Vision Engineer,125000.0,USD,US,0,On-site only,US,M,Artificial Intelligence,1.0,125000.0,Entry-level,Full-time,United States
+2022,EN,FT,Financial Data Analyst,100000.0,USD,US,50,Hybird,US,L,Data Analyst,1.0,100000.0,Entry-level,Full-time,United States
+2022,EN,FT,Data Engineer,120000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,120000.0,Entry-level,Full-time,United States
+2022,EN,FT,Research Scientist,120000.0,USD,US,100,Fully remote,US,L,Research,1.0,120000.0,Entry-level,Full-time,United States
+2022,EN,FT,Data Engineer,65000.0,USD,US,100,Fully remote,US,S,Data Engineering,1.0,65000.0,Entry-level,Full-time,United States
+2020,SE,FT,Data Scientist,60000.0,EUR,GR,100,Fully remote,US,L,Data Science,0.876,68493.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Scientist,60000.0,EUR,GR,100,Fully remote,US,L,Data Science,0.845,71006.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Scientist,60000.0,EUR,GR,100,Fully remote,US,L,Data Science,1.0093,59447.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Machine Learning Engineer,150000.0,USD,US,50,Hybird,US,L,Machine Learning,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Lead Data Scientist,190000.0,USD,US,100,Fully remote,US,S,Data Science,1.0,190000.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Engineer,188000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,188000.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Scientist,120000.0,USD,US,50,Hybird,US,L,Data Science,1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Scientist,412000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,412000.0,Senior-level (Intermediate),Full-time,United States
+2020,SE,FT,Data Science Manager,190200.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,190200.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Lead Data Analyst,170000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,170000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Analyst,80000.0,USD,BG,100,Fully remote,US,S,Data Analyst,1.0,80000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Lead Data Engineer,276000.0,USD,US,0,On-site only,US,L,Data Engineering,1.0,276000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineer,150000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineer,150000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Principal Data Engineer,200000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,200000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Machine Learning Scientist,120000.0,USD,US,50,Hybird,US,S,Machine Learning,1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Principal Data Scientist,220000.0,USD,US,0,On-site only,US,L,Data Science,1.0,220000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,240000.0,USD,US,0,On-site only,US,L,Leadership (DS),1.0,240000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineering Manager,150000.0,USD,US,0,On-site only,US,L,Leadership (DE),1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineering Manager,153000.0,USD,US,100,Fully remote,US,L,Leadership (DE),1.0,153000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Cloud Data Engineer,160000.0,USD,BR,100,Fully remote,US,S,Data Engineering,1.0,160000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,144000.0,USD,US,100,Fully remote,US,L,Leadership (DS),1.0,144000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Analytics Manager,120000.0,USD,US,100,Fully remote,US,M,Leadership (DA),1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Specialist,165000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,165000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Principal Data Scientist,235000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,235000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineering Manager,174000.0,USD,US,100,Fully remote,US,L,Leadership (DE),1.0,174000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,174000.0,USD,US,100,Fully remote,US,L,Leadership (DS),1.0,174000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Machine Learning Infrastructure Engineer,195000.0,USD,US,100,Fully remote,US,M,Machine Learning,1.0,195000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Research Scientist,50000.0,USD,FR,100,Fully remote,US,S,Research,1.0,50000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Machine Learning Engineer,200000.0,USD,US,100,Fully remote,US,L,Machine Learning,1.0,200000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Engineer,165000.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,165000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Analytics Manager,120000.0,USD,US,0,On-site only,US,L,Leadership (DA),1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Principal Data Engineer,185000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,185000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Analytics Manager,140000.0,USD,US,100,Fully remote,US,L,Leadership (DA),1.0,140000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Scientist,135000.0,USD,US,0,On-site only,US,L,Data Science,1.0,135000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,ML Engineer,256000.0,USD,US,100,Fully remote,US,S,Machine Learning,1.0,256000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Director of Data Engineering,200000.0,USD,US,100,Fully remote,US,L,Leadership (DE),1.0,200000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Analyst,200000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,200000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Scientist,165000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,165000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Principal Data Analyst,170000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,170000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Machine Learning Engineer,185000.0,USD,US,50,Hybird,US,L,Machine Learning,1.0,185000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Lead Data Engineer,160000.0,USD,PR,50,Hybird,US,S,Data Engineering,1.0,160000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,135000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,135000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,155000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,155000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,120600.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,120600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,102100.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,102100.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,84900.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,84900.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,136620.0,USD,US,100,Fully remote,US,M,Data Science,1.0,136620.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,99360.0,USD,US,100,Fully remote,US,M,Data Science,1.0,99360.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,146000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,146000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,123000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,123000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,99000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,99000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,116000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,116000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,165220.0,USD,US,100,Fully remote,US,M,Data Science,1.0,165220.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,120160.0,USD,US,100,Fully remote,US,M,Data Science,1.0,120160.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,90320.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,90320.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,181940.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,181940.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,132320.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,132320.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,220110.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,220110.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,160080.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,160080.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,180000.0,USD,US,0,On-site only,US,L,Data Science,1.0,180000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,120000.0,USD,US,0,On-site only,US,L,Data Science,1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,124190.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,124190.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,170000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,170000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,112900.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,112900.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,165400.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,165400.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,132320.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,132320.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,243900.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,243900.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,136600.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,136600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,109280.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,109280.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,128875.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,128875.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,93700.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,93700.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,156600.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,156600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,108800.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,108800.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,95550.0,USD,US,0,On-site only,US,M,Data Science,1.0,95550.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,113000.0,USD,US,0,On-site only,US,L,Data Engineering,1.0,113000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,135000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,135000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Science Manager,161342.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,161342.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Science Manager,137141.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,137141.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,167000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,167000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,150000.0,USD,US,0,On-site only,US,M,Data Science,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,211500.0,USD,US,100,Fully remote,US,M,Data Science,1.0,211500.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,160000.0,USD,US,0,On-site only,US,L,Data Engineering,1.0,160000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,138600.0,USD,US,100,Fully remote,US,M,Data Science,1.0,138600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,136000.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,136000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,170000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,170000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,189650.0,USD,US,0,On-site only,US,M,Machine Learning,1.0,189650.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,164996.0,USD,US,0,On-site only,US,M,Machine Learning,1.0,164996.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,132000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,132000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,208775.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,208775.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,147800.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,147800.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,136994.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,136994.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,101570.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,101570.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,164000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,164000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,155000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,155000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analytics Manager,145000.0,USD,US,100,Fully remote,US,M,Leadership (DA),1.0,145000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analytics Manager,105400.0,USD,US,100,Fully remote,US,M,Leadership (DA),1.0,105400.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,215300.0,USD,US,100,Fully remote,US,L,Data Science,1.0,215300.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,158200.0,USD,US,100,Fully remote,US,L,Data Science,1.0,158200.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,209100.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,209100.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,154600.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,154600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,115934.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,115934.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,81666.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,81666.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,175000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,175000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,183600.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,183600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,180000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,180000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,260000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,260000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,180000.0,USD,US,0,On-site only,US,M,Data Science,1.0,180000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,80000.0,USD,US,0,On-site only,US,M,Data Science,1.0,80000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,100800.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,100800.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,140400.0,USD,US,0,On-site only,US,L,Data Science,1.0,140400.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,180000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,180000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,80000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,80000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,105000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,105000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Research Scientist,144000.0,USD,US,50,Hybird,US,L,Research,1.0,144000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,104890.0,USD,US,100,Fully remote,US,M,Data Science,1.0,104890.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,100000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,100000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,140000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,140000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,220000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,220000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,185100.0,USD,US,100,Fully remote,US,M,Data Science,1.0,185100.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,220000.0,USD,US,100,Fully remote,US,M,Machine Learning,1.0,220000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,210000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,210000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,120000.0,USD,US,100,Fully remote,US,M,Machine Learning,1.0,120000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,230000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,230000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Head of Data,200000.0,USD,MY,100,Fully remote,US,M,Leadership (DS),1.0,200000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,100000.0,USD,BR,100,Fully remote,US,M,Data Science,1.0,100000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,165000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,165000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,115000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,115000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Science Manager,152500.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,152500.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Applied Data Scientist,380000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,380000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analytics Lead,405000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,405000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Applied Data Scientist,177000.0,USD,US,100,Fully remote,US,L,Data Science,1.0,177000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,100000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,100000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,214000.0,USD,US,100,Fully remote,US,M,Machine Learning,1.0,214000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Machine Learning Engineer,192600.0,USD,US,100,Fully remote,US,M,Machine Learning,1.0,192600.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,266400.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,266400.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,213120.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,213120.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,115934.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,115934.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,81666.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,81666.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,130000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,130000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,110500.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,110500.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,99050.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,99050.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,160000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,160000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,205300.0,USD,US,0,On-site only,US,L,Data Science,1.0,205300.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,176000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,176000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,144000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,144000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,200100.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,200100.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,145000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,145000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,70500.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,70500.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,205300.0,USD,US,0,On-site only,US,M,Data Science,1.0,205300.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,140400.0,USD,US,0,On-site only,US,M,Data Science,1.0,140400.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Analytics Engineer,205300.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,205300.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Analytics Engineer,184700.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,184700.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,175100.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,175100.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,140250.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,140250.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,116150.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,116150.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,54000.0,USD,US,0,On-site only,US,M,Data Engineering,1.0,54000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,80000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,80000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,210000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,210000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,69000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,69000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,150075.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,150075.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,25000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,25000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,126500.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,126500.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,106260.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,106260.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,220110.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,220110.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,160080.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,160080.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,105000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,105000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,110925.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,110925.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,60000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,60000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,192564.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,192564.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Architect,144854.0,USD,US,100,Fully remote,US,M,Data Architect,1.0,144854.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Scientist,150000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analytics Manager,150260.0,USD,US,100,Fully remote,US,M,Leadership (DA),1.0,150260.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analytics Manager,109280.0,USD,US,100,Fully remote,US,M,Leadership (DA),1.0,109280.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,154000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,154000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Engineer,126000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,126000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,129000.0,USD,US,0,On-site only,US,M,Data Analyst,1.0,129000.0,Senior-level (Intermediate),Full-time,United States
+2022,SE,FT,Data Analyst,150000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,150000.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,4000000.0,INR,IN,50,Hybird,US,L,Leadership (DS),74.1,53981.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,4000000.0,INR,IN,50,Hybird,US,L,Leadership (DS),73.918,54114.0,Senior-level (Intermediate),Full-time,United States
+2021,SE,FT,Data Science Manager,4000000.0,INR,IN,50,Hybird,US,L,Leadership (DS),80.2144,49866.0,Senior-level (Intermediate),Full-time,United States
+2020,EX,FT,Director of Data Science,325000.0,USD,US,100,Fully remote,US,L,Leadership (DS),1.0,325000.0,Executive-level / Director (Expert),Full-time,United States
+2021,EX,FT,BI Data Analyst,150000.0,USD,IN,100,Fully remote,US,L,Data Analyst,1.0,150000.0,Executive-level / Director (Expert),Full-time,United States
+2021,EX,FT,Head of Data,235000.0,USD,US,100,Fully remote,US,L,Leadership (DS),1.0,235000.0,Executive-level / Director (Expert),Full-time,United States
+2021,EX,FT,Director of Data Science,250000.0,USD,US,0,On-site only,US,L,Leadership (DS),1.0,250000.0,Executive-level / Director (Expert),Full-time,United States
+2021,EX,FT,Principal Data Engineer,600000.0,USD,US,100,Fully remote,US,L,Data Engineering,1.0,600000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Engineer,242000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,242000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Engineer,200000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,200000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Analyst,130000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,130000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Analyst,110000.0,USD,US,100,Fully remote,US,M,Data Analyst,1.0,110000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Head of Data Science,224000.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,224000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Head of Data Science,167875.0,USD,US,100,Fully remote,US,M,Leadership (DS),1.0,167875.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Analytics Engineer,175000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,175000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Analytics Engineer,135000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,135000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Engineer,324000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,324000.0,Executive-level / Director (Expert),Full-time,United States
+2022,EX,FT,Data Engineer,216000.0,USD,US,100,Fully remote,US,M,Data Engineering,1.0,216000.0,Executive-level / Director (Expert),Full-time,United States
+2021,EN,PT,AI Scientist,12000.0,USD,BR,100,Fully remote,US,S,Artificial Intelligence,1.0,12000.0,Entry-level,Part-time,United States
+2021,EN,PT,AI Scientist,12000.0,USD,PK,100,Fully remote,US,M,Artificial Intelligence,1.0,12000.0,Entry-level,Part-time,United States
+2021,MI,CT,ML Engineer,270000.0,USD,US,100,Fully remote,US,L,Machine Learning,1.0,270000.0,Mid-level (Junior),Contract,United States
+2020,EN,CT,Business Data Analyst,100000.0,USD,US,100,Fully remote,US,L,Data Analyst,1.0,100000.0,Entry-level,Contract,United States
+2021,SE,CT,Staff Data Scientist,105000.0,USD,US,100,Fully remote,US,M,Data Science,1.0,105000.0,Senior-level (Intermediate),Contract,United States
+2021,EX,CT,Principal Data Scientist,416000.0,USD,US,100,Fully remote,US,S,Data Science,1.0,416000.0,Executive-level / Director (Expert),Contract,United States
+2021,MI,FL,Data Engineer,20000.0,USD,IT,0,On-site only,US,L,Data Engineering,1.0,20000.0,Mid-level (Junior),Freelance,United States
+2022,MI,FL,Data Scientist,100000.0,USD,CA,100,Fully remote,US,M,Data Science,1.0,100000.0,Mid-level (Junior),Freelance,United States
+2020,SE,FL,Computer Vision Engineer,60000.0,USD,RU,100,Fully remote,US,S,Artificial Intelligence,1.0,60000.0,Senior-level (Intermediate),Freelance,United States
+2021,MI,FT,Data Engineer,38400.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,0.876,43836.0,Mid-level (Junior),Full-time,Netherlands
+2021,MI,FT,Data Engineer,38400.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,0.845,45444.0,Mid-level (Junior),Full-time,Netherlands
+2021,MI,FT,Data Engineer,38400.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,1.0093,38046.0,Mid-level (Junior),Full-time,Netherlands
+2020,EN,FT,Research Scientist,42000.0,USD,NL,50,Hybird,NL,L,Research,1.0,42000.0,Entry-level,Full-time,Netherlands
+2022,SE,FT,Machine Learning Engineer,57000.0,EUR,NL,100,Fully remote,NL,L,Machine Learning,0.876,65068.0,Senior-level (Intermediate),Full-time,Netherlands
+2022,SE,FT,Machine Learning Engineer,57000.0,EUR,NL,100,Fully remote,NL,L,Machine Learning,0.845,67456.0,Senior-level (Intermediate),Full-time,Netherlands
+2022,SE,FT,Machine Learning Engineer,57000.0,EUR,NL,100,Fully remote,NL,L,Machine Learning,1.0093,56475.0,Senior-level (Intermediate),Full-time,Netherlands
+2021,MI,PT,Data Engineer,59000.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,0.876,67352.0,Mid-level (Junior),Part-time,Netherlands
+2021,MI,PT,Data Engineer,59000.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,0.845,69822.0,Mid-level (Junior),Part-time,Netherlands
+2021,MI,PT,Data Engineer,59000.0,EUR,NL,100,Fully remote,NL,L,Data Engineering,1.0093,58456.0,Mid-level (Junior),Part-time,Netherlands
+2021,MI,FT,Data Science Engineer,34000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.876,38813.0,Mid-level (Junior),Full-time,Greece
+2021,MI,FT,Data Science Engineer,34000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.845,40237.0,Mid-level (Junior),Full-time,Greece
+2021,MI,FT,Data Science Engineer,34000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,1.0093,33687.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,ETL Developer,50000.0,EUR,GR,0,On-site only,GR,M,Data Engineering,0.876,57078.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,ETL Developer,50000.0,EUR,GR,0,On-site only,GR,M,Data Engineering,0.845,59172.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,ETL Developer,50000.0,EUR,GR,0,On-site only,GR,M,Data Engineering,1.0093,49539.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,60000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.876,68493.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,60000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.845,71006.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,60000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,1.0093,59447.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,45000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.876,51370.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,45000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.845,53254.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,45000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,1.0093,44585.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,80000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.876,91324.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,80000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,0.845,94675.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Engineer,80000.0,EUR,GR,100,Fully remote,GR,M,Data Engineering,1.0093,79263.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,40000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,0.876,45662.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,40000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,0.845,47337.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,40000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,1.0093,39631.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,30000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,0.876,34247.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,30000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,0.845,35503.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,30000.0,EUR,GR,100,Fully remote,GR,M,Data Analyst,1.0093,29724.0,Mid-level (Junior),Full-time,Greece
+2022,MI,FT,Data Analyst,20000.0,USD,GR,100,Fully remote,GR,S,Data Analyst,1.0,20000.0,Mid-level (Junior),Full-time,Greece
+2020,SE,FT,Data Engineer,42000.0,EUR,GR,50,Hybird,GR,L,Data Engineering,0.876,47945.0,Senior-level (Intermediate),Full-time,Greece
+2020,SE,FT,Data Engineer,42000.0,EUR,GR,50,Hybird,GR,L,Data Engineering,0.845,49704.0,Senior-level (Intermediate),Full-time,Greece
+2020,SE,FT,Data Engineer,42000.0,EUR,GR,50,Hybird,GR,L,Data Engineering,1.0093,41613.0,Senior-level (Intermediate),Full-time,Greece
+2021,MI,FT,Data Engineer,24000.0,EUR,MT,50,Hybird,MT,L,Data Engineering,0.876,27397.0,Mid-level (Junior),Full-time,Malta
+2021,MI,FT,Data Engineer,24000.0,EUR,MT,50,Hybird,MT,L,Data Engineering,0.845,28402.0,Mid-level (Junior),Full-time,Malta
+2021,MI,FT,Data Engineer,24000.0,EUR,MT,50,Hybird,MT,L,Data Engineering,1.0093,23779.0,Mid-level (Junior),Full-time,Malta
+2021,MI,FT,Machine Learning Engineer,21000.0,EUR,SI,50,Hybird,SI,L,Machine Learning,0.876,23973.0,Mid-level (Junior),Full-time,Slovenia
+2021,MI,FT,Machine Learning Engineer,21000.0,EUR,SI,50,Hybird,SI,L,Machine Learning,0.845,24852.0,Mid-level (Junior),Full-time,Slovenia
+2021,MI,FT,Machine Learning Engineer,21000.0,EUR,SI,50,Hybird,SI,L,Machine Learning,1.0093,20806.0,Mid-level (Junior),Full-time,Slovenia
+2021,SE,FT,Head of Data,87000.0,EUR,SI,100,Fully remote,SI,L,Leadership (DS),0.876,99315.0,Senior-level (Intermediate),Full-time,Slovenia
+2021,SE,FT,Head of Data,87000.0,EUR,SI,100,Fully remote,SI,L,Leadership (DS),0.845,102959.0,Senior-level (Intermediate),Full-time,Slovenia
+2021,SE,FT,Head of Data,87000.0,EUR,SI,100,Fully remote,SI,L,Leadership (DS),1.0093,86198.0,Senior-level (Intermediate),Full-time,Slovenia
+2021,MI,FT,Machine Learning Engineer,75000.0,EUR,BE,100,Fully remote,BE,M,Machine Learning,0.876,85616.0,Mid-level (Junior),Full-time,Belgium
+2021,MI,FT,Machine Learning Engineer,75000.0,EUR,BE,100,Fully remote,BE,M,Machine Learning,0.845,88757.0,Mid-level (Junior),Full-time,Belgium
+2021,MI,FT,Machine Learning Engineer,75000.0,EUR,BE,100,Fully remote,BE,M,Machine Learning,1.0093,74309.0,Mid-level (Junior),Full-time,Belgium
+2021,SE,FT,Machine Learning Engineer,70000.0,EUR,BE,50,Hybird,BE,M,Machine Learning,0.876,79909.0,Senior-level (Intermediate),Full-time,Belgium
+2021,SE,FT,Machine Learning Engineer,70000.0,EUR,BE,50,Hybird,BE,M,Machine Learning,0.845,82840.0,Senior-level (Intermediate),Full-time,Belgium
+2021,SE,FT,Machine Learning Engineer,70000.0,EUR,BE,50,Hybird,BE,M,Machine Learning,1.0093,69355.0,Senior-level (Intermediate),Full-time,Belgium
+2021,MI,FT,Machine Learning Engineer,43200.0,EUR,IT,50,Hybird,IT,L,Machine Learning,0.876,49315.0,Mid-level (Junior),Full-time,Italy
+2021,MI,FT,Machine Learning Engineer,43200.0,EUR,IT,50,Hybird,IT,L,Machine Learning,0.845,51124.0,Mid-level (Junior),Full-time,Italy
+2021,MI,FT,Machine Learning Engineer,43200.0,EUR,IT,50,Hybird,IT,L,Machine Learning,1.0093,42802.0,Mid-level (Junior),Full-time,Italy
+2020,EN,PT,Data Scientist,19000.0,EUR,IT,50,Hybird,IT,S,Data Science,0.876,21689.0,Entry-level,Part-time,Italy
+2020,EN,PT,Data Scientist,19000.0,EUR,IT,50,Hybird,IT,S,Data Science,0.845,22485.0,Entry-level,Part-time,Italy
+2020,EN,PT,Data Scientist,19000.0,EUR,IT,50,Hybird,IT,S,Data Science,1.0093,18825.0,Entry-level,Part-time,Italy
+2022,MI,FT,Head of Data,30000.0,EUR,EE,100,Fully remote,EE,S,Leadership (DS),0.876,34247.0,Mid-level (Junior),Full-time,Estonia
+2022,MI,FT,Head of Data,30000.0,EUR,EE,100,Fully remote,EE,S,Leadership (DS),0.845,35503.0,Mid-level (Junior),Full-time,Estonia
+2022,MI,FT,Head of Data,30000.0,EUR,EE,100,Fully remote,EE,S,Leadership (DS),1.0093,29724.0,Mid-level (Junior),Full-time,Estonia
+2020,MI,FT,Product Data Analyst,20000.0,USD,HN,0,On-site only,HN,S,Data Analyst,1.0,20000.0,Mid-level (Junior),Full-time,Honduras
+2020,MI,FT,Data Analyst,8000.0,USD,PK,50,Hybird,PK,L,Data Analyst,1.0,8000.0,Mid-level (Junior),Full-time,Pakistan
+2022,EN,FT,Data Analytics Engineer,20000.0,USD,PK,0,On-site only,PK,M,Data Engineering,1.0,20000.0,Entry-level,Full-time,Pakistan
+2021,MI,FL,Machine Learning Scientist,12000.0,USD,PK,50,Hybird,PK,M,Machine Learning,1.0,12000.0,Mid-level (Junior),Freelance,Pakistan
+2020,MI,FT,Lead Data Scientist,115000.0,USD,AE,0,On-site only,AE,L,Data Science,1.0,115000.0,Mid-level (Junior),Full-time,United Arab Emirates
+2022,SE,FT,Machine Learning Engineer,120000.0,USD,AE,100,Fully remote,AE,S,Machine Learning,1.0,120000.0,Senior-level (Intermediate),Full-time,United Arab Emirates
+2022,SE,FT,Machine Learning Engineer,65000.0,USD,AE,100,Fully remote,AE,S,Machine Learning,1.0,65000.0,Senior-level (Intermediate),Full-time,United Arab Emirates
+2021,MI,FT,Data Scientist,50000.0,USD,NG,100,Fully remote,NG,L,Data Science,1.0,50000.0,Mid-level (Junior),Full-time,Nigeria
+2020,EN,FT,Data Analyst,10000.0,USD,NG,100,Fully remote,NG,S,Data Analyst,1.0,10000.0,Entry-level,Full-time,Nigeria
+2021,MI,FT,Data Engineer,4000.0,USD,IR,100,Fully remote,IR,M,Data Engineering,1.0,4000.0,Mid-level (Junior),Full-time,Iran
+2021,MI,FT,Machine Learning Engineer,74000.0,USD,JP,50,Hybird,JP,S,Machine Learning,1.0,74000.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,7000000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,106.775,65558.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,7000000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,109.754,63779.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,7000000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,142.9918,48954.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,8500000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,106.775,79607.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,8500000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,109.754,77446.0,Mid-level (Junior),Full-time,Japan
+2021,MI,FT,ML Engineer,8500000.0,JPY,JP,50,Hybird,JP,S,Machine Learning,142.9918,59444.0,Mid-level (Junior),Full-time,Japan
+2020,EN,FT,Data Engineer,4450000.0,JPY,JP,100,Fully remote,JP,S,Data Engineering,106.775,41676.0,Entry-level,Full-time,Japan
+2020,EN,FT,Data Engineer,4450000.0,JPY,JP,100,Fully remote,JP,S,Data Engineering,109.754,40545.0,Entry-level,Full-time,Japan
+2020,EN,FT,Data Engineer,4450000.0,JPY,JP,100,Fully remote,JP,S,Data Engineering,142.9918,31121.0,Entry-level,Full-time,Japan
+2020,SE,FT,Machine Learning Scientist,260000.0,USD,JP,0,On-site only,JP,S,Machine Learning,1.0,260000.0,Senior-level (Intermediate),Full-time,Japan
+2021,SE,FT,Director of Data Science,168000.0,USD,JP,0,On-site only,JP,S,Leadership (DS),1.0,168000.0,Senior-level (Intermediate),Full-time,Japan
+2021,MI,FT,Big Data Engineer,18000.0,USD,MD,0,On-site only,MD,S,Data Engineering,1.0,18000.0,Mid-level (Junior),Full-time,Moldova
+2021,MI,FT,Research Scientist,69999.0,USD,CZ,50,Hybird,CZ,L,Research,1.0,69999.0,Mid-level (Junior),Full-time,Czech Republic
+2022,EN,CT,Applied Machine Learning Scientist,29000.0,EUR,TN,100,Fully remote,CZ,M,Machine Learning,0.876,33105.0,Entry-level,Contract,Czech Republic
+2022,EN,CT,Applied Machine Learning Scientist,29000.0,EUR,TN,100,Fully remote,CZ,M,Machine Learning,0.845,34320.0,Entry-level,Contract,Czech Republic
+2022,EN,CT,Applied Machine Learning Scientist,29000.0,EUR,TN,100,Fully remote,CZ,M,Machine Learning,1.0093,28733.0,Entry-level,Contract,Czech Republic
+2022,MI,FT,Principal Data Analyst,75000.0,USD,CA,100,Fully remote,CA,S,Data Analyst,1.0,75000.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Data Analyst,85000.0,USD,CA,0,On-site only,CA,M,Data Analyst,1.0,85000.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Data Analyst,75000.0,USD,CA,0,On-site only,CA,M,Data Analyst,1.0,75000.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Research Scientist,235000.0,CAD,CA,100,Fully remote,CA,L,Research,1.341,175242.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Research Scientist,235000.0,CAD,CA,100,Fully remote,CA,L,Research,1.254,187400.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Research Scientist,235000.0,CAD,CA,100,Fully remote,CA,L,Research,1.3315,176493.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Data Scientist,95000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.341,70843.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Data Scientist,95000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.254,75758.0,Mid-level (Junior),Full-time,Canada
+2021,MI,FT,Data Scientist,95000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.3315,71348.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.341,74571.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.254,79745.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.3315,75103.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Business Data Analyst,90000.0,CAD,CA,50,Hybird,CA,L,Data Analyst,1.341,67114.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Business Data Analyst,90000.0,CAD,CA,50,Hybird,CA,L,Data Analyst,1.254,71770.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Business Data Analyst,90000.0,CAD,CA,50,Hybird,CA,L,Data Analyst,1.3315,67593.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Data Scientist,88000.0,CAD,CA,100,Fully remote,CA,M,Data Science,1.341,65623.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Data Scientist,88000.0,CAD,CA,100,Fully remote,CA,M,Data Science,1.254,70175.0,Mid-level (Junior),Full-time,Canada
+2022,MI,FT,Data Scientist,88000.0,CAD,CA,100,Fully remote,CA,M,Data Science,1.3315,66091.0,Mid-level (Junior),Full-time,Canada
+2022,EN,FT,Data Analyst,67000.0,USD,CA,0,On-site only,CA,M,Data Analyst,1.0,67000.0,Entry-level,Full-time,Canada
+2022,EN,FT,Data Analyst,52000.0,USD,CA,0,On-site only,CA,M,Data Analyst,1.0,52000.0,Entry-level,Full-time,Canada
+2022,EN,FT,Data Scientist,66500.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.341,49590.0,Entry-level,Full-time,Canada
+2022,EN,FT,Data Scientist,66500.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.254,53030.0,Entry-level,Full-time,Canada
+2022,EN,FT,Data Scientist,66500.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.3315,49944.0,Entry-level,Full-time,Canada
+2021,SE,FT,Machine Learning Scientist,225000.0,USD,US,100,Fully remote,CA,L,Machine Learning,1.0,225000.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Data Architect,192400.0,USD,CA,100,Fully remote,CA,M,Data Architect,1.0,192400.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Data Architect,90700.0,USD,CA,100,Fully remote,CA,M,Data Architect,1.0,90700.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Data Analyst,130000.0,USD,CA,100,Fully remote,CA,M,Data Analyst,1.0,130000.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Data Analyst,61300.0,USD,CA,100,Fully remote,CA,M,Data Analyst,1.0,61300.0,Senior-level (Intermediate),Full-time,Canada
+2020,SE,FT,Machine Learning Manager,157000.0,CAD,CA,50,Hybird,CA,L,Leadership (ML),1.341,117077.0,Senior-level (Intermediate),Full-time,Canada
+2020,SE,FT,Machine Learning Manager,157000.0,CAD,CA,50,Hybird,CA,L,Leadership (ML),1.254,125199.0,Senior-level (Intermediate),Full-time,Canada
+2020,SE,FT,Machine Learning Manager,157000.0,CAD,CA,50,Hybird,CA,L,Leadership (ML),1.3315,117912.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Science Engineer,159500.0,CAD,CA,50,Hybird,CA,L,Data Engineering,1.341,118941.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Science Engineer,159500.0,CAD,CA,50,Hybird,CA,L,Data Engineering,1.254,127193.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Science Engineer,159500.0,CAD,CA,50,Hybird,CA,L,Data Engineering,1.3315,119790.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Research Scientist,120500.0,CAD,CA,50,Hybird,CA,L,Research,1.341,89858.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Research Scientist,120500.0,CAD,CA,50,Hybird,CA,L,Research,1.254,96093.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Research Scientist,120500.0,CAD,CA,50,Hybird,CA,L,Research,1.3315,90499.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,110000.0,CAD,CA,100,Fully remote,CA,S,Data Science,1.341,82028.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,110000.0,CAD,CA,100,Fully remote,CA,S,Data Science,1.254,87719.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,110000.0,CAD,CA,100,Fully remote,CA,S,Data Science,1.3315,82614.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Analyst,90000.0,CAD,CA,100,Fully remote,CA,M,Data Analyst,1.341,67114.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Analyst,90000.0,CAD,CA,100,Fully remote,CA,M,Data Analyst,1.254,71770.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Analyst,90000.0,CAD,CA,100,Fully remote,CA,M,Data Analyst,1.3315,67593.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,130000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.341,96943.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,130000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.254,103668.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Data Scientist,130000.0,CAD,CA,100,Fully remote,CA,L,Data Science,1.3315,97634.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Big Data Architect,125000.0,CAD,CA,50,Hybird,CA,M,Data Architect,1.341,93214.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Big Data Architect,125000.0,CAD,CA,50,Hybird,CA,M,Data Architect,1.254,99681.0,Senior-level (Intermediate),Full-time,Canada
+2021,SE,FT,Big Data Architect,125000.0,CAD,CA,50,Hybird,CA,M,Data Architect,1.3315,93879.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.341,74571.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.254,79745.0,Senior-level (Intermediate),Full-time,Canada
+2022,SE,FT,Machine Learning Developer,100000.0,CAD,CA,100,Fully remote,CA,M,Machine Learning,1.3315,75103.0,Senior-level (Intermediate),Full-time,Canada
+2022,EX,FT,Lead Data Engineer,150000.0,CAD,CA,100,Fully remote,CA,S,Data Engineering,1.341,111857.0,Executive-level / Director (Expert),Full-time,Canada
+2022,EX,FT,Lead Data Engineer,150000.0,CAD,CA,100,Fully remote,CA,S,Data Engineering,1.254,119617.0,Executive-level / Director (Expert),Full-time,Canada
+2022,EX,FT,Lead Data Engineer,150000.0,CAD,CA,100,Fully remote,CA,S,Data Engineering,1.3315,112655.0,Executive-level / Director (Expert),Full-time,Canada
+2022,EX,FT,Director of Data Science,250000.0,CAD,CA,50,Hybird,CA,L,Leadership (DS),1.341,186428.0,Executive-level / Director (Expert),Full-time,Canada
+2022,EX,FT,Director of Data Science,250000.0,CAD,CA,50,Hybird,CA,L,Leadership (DS),1.254,199362.0,Executive-level / Director (Expert),Full-time,Canada
+2022,EX,FT,Director of Data Science,250000.0,CAD,CA,50,Hybird,CA,L,Leadership (DS),1.3315,187758.0,Executive-level / Director (Expert),Full-time,Canada
+2020,MI,FT,Data Scientist,60000.0,GBP,GB,100,Fully remote,UK,S,Data Science,0.78,76923.0,Mid-level (Junior),Full-time,United Kingdom
+2020,MI,FT,Data Scientist,60000.0,GBP,GB,100,Fully remote,UK,S,Data Science,0.727,82531.0,Mid-level (Junior),Full-time,United Kingdom
+2020,MI,FT,Data Scientist,60000.0,GBP,GB,100,Fully remote,UK,S,Data Science,0.8831,67942.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Analyst,37456.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.78,48021.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Analyst,37456.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.727,51521.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Analyst,37456.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.8831,42414.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,L,Data Engineering,0.78,76923.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,L,Data Engineering,0.727,82531.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,L,Data Engineering,0.8831,67942.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,48000.0,GBP,HK,50,Hybird,UK,S,Data Engineering,0.78,61538.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,48000.0,GBP,HK,50,Hybird,UK,S,Data Engineering,0.727,66025.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,48000.0,GBP,HK,50,Hybird,UK,S,Data Engineering,0.8831,54354.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,85000.0,GBP,GB,50,Hybird,UK,L,Data Science,0.78,108974.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,85000.0,GBP,GB,50,Hybird,UK,L,Data Science,0.727,116919.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,85000.0,GBP,GB,50,Hybird,UK,L,Data Science,0.8831,96252.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,40900.0,GBP,GB,50,Hybird,UK,L,Data Science,0.78,52436.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,40900.0,GBP,GB,50,Hybird,UK,L,Data Science,0.727,56259.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Scientist,40900.0,GBP,GB,50,Hybird,UK,L,Data Science,0.8831,46314.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,52500.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.78,67308.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,52500.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.727,72215.0,Mid-level (Junior),Full-time,United Kingdom
+2021,MI,FT,Data Engineer,52500.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.8831,59450.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,50000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,64103.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,50000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,68776.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,50000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,56619.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,30000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,38462.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,30000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,41265.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,30000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,33971.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,76923.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,82531.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,67942.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,40000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,51282.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,40000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,55021.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,40000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,45295.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,95000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.78,121795.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,95000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.727,130674.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,95000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.8831,107576.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.78,96154.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.727,103164.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Machine Learning Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Machine Learning,0.8831,84928.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,90000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,115385.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,90000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,123796.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,90000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,101914.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,96154.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,103164.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,84928.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,40000.0,GBP,GB,100,Fully remote,UK,M,Data Analyst,0.78,51282.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,40000.0,GBP,GB,100,Fully remote,UK,M,Data Analyst,0.727,55021.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,40000.0,GBP,GB,100,Fully remote,UK,M,Data Analyst,0.8831,45295.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,55000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,70513.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,55000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,75653.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,55000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,62281.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,35000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,44872.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,35000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,48143.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,35000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,39633.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,76923.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,82531.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,60000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,67942.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,45000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,57692.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,45000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,61898.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,45000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,50957.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,80000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,102564.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,80000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,110041.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,80000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,90590.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,70000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,89744.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,70000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,96286.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,70000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,79266.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,96154.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,103164.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,84928.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,140000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,179487.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,140000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,192572.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,140000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,158532.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,70000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,89744.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,70000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,96286.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Scientist,70000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,79266.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,50000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.78,64103.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,50000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.727,68776.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,50000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.8831,56619.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,35000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.78,44872.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,35000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.727,48143.0,Mid-level (Junior),Full-time,United Kingdom
+2022,MI,FT,Data Analyst,35000.0,GBP,GB,0,On-site only,UK,M,Data Analyst,0.8831,39633.0,Mid-level (Junior),Full-time,United Kingdom
+2021,EN,FT,Research Scientist,60000.0,GBP,GB,50,Hybird,UK,L,Research,0.78,76923.0,Entry-level,Full-time,United Kingdom
+2021,EN,FT,Research Scientist,60000.0,GBP,GB,50,Hybird,UK,L,Research,0.727,82531.0,Entry-level,Full-time,United Kingdom
+2021,EN,FT,Research Scientist,60000.0,GBP,GB,50,Hybird,UK,L,Research,0.8831,67942.0,Entry-level,Full-time,United Kingdom
+2021,EN,FT,Applied Data Scientist,80000.0,GBP,GB,0,On-site only,UK,L,Data Science,0.78,102564.0,Entry-level,Full-time,United Kingdom
+2021,EN,FT,Applied Data Scientist,80000.0,GBP,GB,0,On-site only,UK,L,Data Science,0.727,110041.0,Entry-level,Full-time,United Kingdom
+2021,EN,FT,Applied Data Scientist,80000.0,GBP,GB,0,On-site only,UK,L,Data Science,0.8831,90590.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,40000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,51282.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,40000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,55021.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,40000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,45295.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,35000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.78,44872.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,35000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.727,48143.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Data Engineer,35000.0,GBP,GB,100,Fully remote,UK,M,Data Engineering,0.8831,39633.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Machine Learning Engineer,28500.0,GBP,GB,100,Fully remote,UK,L,Machine Learning,0.78,36538.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Machine Learning Engineer,28500.0,GBP,GB,100,Fully remote,UK,L,Machine Learning,0.727,39202.0,Entry-level,Full-time,United Kingdom
+2022,EN,FT,Machine Learning Engineer,28500.0,GBP,GB,100,Fully remote,UK,L,Machine Learning,0.8831,32273.0,Entry-level,Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,100000.0,EUR,PL,100,Fully remote,UK,S,Data Engineering,0.876,114155.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,100000.0,EUR,PL,100,Fully remote,UK,S,Data Engineering,0.845,118343.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,100000.0,EUR,PL,100,Fully remote,UK,S,Data Engineering,1.0093,99079.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,65000.0,EUR,RO,50,Hybird,UK,S,Data Engineering,0.876,74201.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,65000.0,EUR,RO,50,Hybird,UK,S,Data Engineering,0.845,76923.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,65000.0,EUR,RO,50,Hybird,UK,S,Data Engineering,1.0093,64401.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Analytics Engineer,50000.0,USD,VN,100,Fully remote,UK,M,Data Engineering,1.0,50000.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,85000.0,GBP,GB,50,Hybird,UK,M,Data Engineering,0.78,108974.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,85000.0,GBP,GB,50,Hybird,UK,M,Data Engineering,0.727,116919.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,SE,FT,Big Data Engineer,85000.0,GBP,GB,50,Hybird,UK,M,Data Engineering,0.8831,96252.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Director of Data Engineering,82500.0,GBP,GB,100,Fully remote,UK,M,Leadership (DE),0.78,105769.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Director of Data Engineering,82500.0,GBP,GB,100,Fully remote,UK,M,Leadership (DE),0.727,113480.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Director of Data Engineering,82500.0,GBP,GB,100,Fully remote,UK,M,Leadership (DE),0.8831,93421.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Lead Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,S,Data Engineering,0.78,96154.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Lead Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,S,Data Engineering,0.727,103164.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Lead Data Engineer,75000.0,GBP,GB,100,Fully remote,UK,S,Data Engineering,0.8831,84928.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Finance Data Analyst,45000.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.78,57692.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Finance Data Analyst,45000.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.727,61898.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Finance Data Analyst,45000.0,GBP,GB,50,Hybird,UK,L,Data Analyst,0.8831,50957.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,70000.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.78,89744.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,70000.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.727,96286.0,Senior-level (Intermediate),Full-time,United Kingdom
+2021,SE,FT,Data Engineer,70000.0,GBP,GB,50,Hybird,UK,L,Data Engineering,0.8831,79266.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,90000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,115385.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,90000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,123796.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,90000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,101914.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,80000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.78,102564.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,80000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.727,110041.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Scientist,80000.0,GBP,GB,0,On-site only,UK,M,Data Science,0.8831,90590.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,76923.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,82531.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,60000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,67942.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,50000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.78,64103.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,50000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.727,68776.0,Senior-level (Intermediate),Full-time,United Kingdom
+2022,SE,FT,Data Engineer,50000.0,GBP,GB,0,On-site only,UK,M,Data Engineering,0.8831,56619.0,Senior-level (Intermediate),Full-time,United Kingdom
+2020,MI,FT,Data Scientist,11000000.0,HUF,HU,50,Hybird,HU,L,Data Science,307.997,35715.0,Mid-level (Junior),Full-time,Hungary
+2020,MI,FT,Data Scientist,11000000.0,HUF,HU,50,Hybird,HU,L,Data Science,303.141,36287.0,Mid-level (Junior),Full-time,Hungary
+2020,MI,FT,Data Scientist,11000000.0,HUF,HU,50,Hybird,HU,L,Data Science,408.1759,26949.0,Mid-level (Junior),Full-time,Hungary
+2020,MI,FT,Data Scientist,3000000.0,INR,IN,0,On-site only,IN,L,Data Science,74.1,40486.0,Mid-level (Junior),Full-time,India
+2020,MI,FT,Data Scientist,3000000.0,INR,IN,0,On-site only,IN,L,Data Science,73.918,40586.0,Mid-level (Junior),Full-time,India
+2020,MI,FT,Data Scientist,3000000.0,INR,IN,0,On-site only,IN,L,Data Science,80.2144,37400.0,Mid-level (Junior),Full-time,India
+2020,MI,FT,Product Data Analyst,450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,74.1,6073.0,Mid-level (Junior),Full-time,India
+2020,MI,FT,Product Data Analyst,450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,73.918,6088.0,Mid-level (Junior),Full-time,India
+2020,MI,FT,Product Data Analyst,450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,80.2144,5610.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Lead Data Analyst,1450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,74.1,19568.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Lead Data Analyst,1450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,73.918,19616.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Lead Data Analyst,1450000.0,INR,IN,100,Fully remote,IN,L,Data Analyst,80.2144,18077.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,700000.0,INR,IN,0,On-site only,IN,S,Data Science,74.1,9447.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,700000.0,INR,IN,0,On-site only,IN,S,Data Science,73.918,9470.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,700000.0,INR,IN,0,On-site only,IN,S,Data Science,80.2144,8727.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Big Data Engineer,1672000.0,INR,IN,0,On-site only,IN,L,Data Engineering,74.1,22564.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Big Data Engineer,1672000.0,INR,IN,0,On-site only,IN,L,Data Engineering,73.918,22620.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Big Data Engineer,1672000.0,INR,IN,0,On-site only,IN,L,Data Engineering,80.2144,20844.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,2500000.0,INR,IN,0,On-site only,IN,M,Data Science,74.1,33738.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,2500000.0,INR,IN,0,On-site only,IN,M,Data Science,73.918,33821.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,2500000.0,INR,IN,0,On-site only,IN,M,Data Science,80.2144,31166.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,1250000.0,INR,IN,100,Fully remote,IN,S,Data Science,74.1,16869.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,1250000.0,INR,IN,100,Fully remote,IN,S,Data Science,73.918,16911.0,Mid-level (Junior),Full-time,India
+2021,MI,FT,Data Scientist,1250000.0,INR,IN,100,Fully remote,IN,S,Data Science,80.2144,15583.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Business Data Analyst,1400000.0,INR,IN,100,Fully remote,IN,M,Data Analyst,74.1,18893.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Business Data Analyst,1400000.0,INR,IN,100,Fully remote,IN,M,Data Analyst,73.918,18940.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Business Data Analyst,1400000.0,INR,IN,100,Fully remote,IN,M,Data Analyst,80.2144,17453.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Data Scientist,2400000.0,INR,IN,100,Fully remote,IN,L,Data Science,74.1,32389.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Data Scientist,2400000.0,INR,IN,100,Fully remote,IN,L,Data Science,73.918,32468.0,Mid-level (Junior),Full-time,India
+2022,MI,FT,Data Scientist,2400000.0,INR,IN,100,Fully remote,IN,L,Data Science,80.2144,29920.0,Mid-level (Junior),Full-time,India
+2021,EN,FT,Machine Learning Engineer,20000.0,USD,IN,100,Fully remote,IN,S,Machine Learning,1.0,20000.0,Entry-level,Full-time,India
+2020,EN,FT,Data Science Consultant,423000.0,INR,IN,50,Hybird,IN,M,Data Science,74.1,5709.0,Entry-level,Full-time,India
+2020,EN,FT,Data Science Consultant,423000.0,INR,IN,50,Hybird,IN,M,Data Science,73.918,5723.0,Entry-level,Full-time,India
+2020,EN,FT,Data Science Consultant,423000.0,INR,IN,50,Hybird,IN,M,Data Science,80.2144,5273.0,Entry-level,Full-time,India
+2020,EN,FT,Data Analyst,450000.0,INR,IN,0,On-site only,IN,S,Data Analyst,74.1,6073.0,Entry-level,Full-time,India
+2020,EN,FT,Data Analyst,450000.0,INR,IN,0,On-site only,IN,S,Data Analyst,73.918,6088.0,Entry-level,Full-time,India
+2020,EN,FT,Data Analyst,450000.0,INR,IN,0,On-site only,IN,S,Data Analyst,80.2144,5610.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2200000.0,INR,IN,50,Hybird,IN,L,Data Science,74.1,29690.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2200000.0,INR,IN,50,Hybird,IN,L,Data Science,73.918,29763.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2200000.0,INR,IN,50,Hybird,IN,L,Data Science,80.2144,27426.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,2250000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,74.1,30364.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,2250000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,73.918,30439.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,2250000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,80.2144,28050.0,Entry-level,Full-time,India
+2021,EN,FT,Big Data Engineer,1200000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,74.1,16194.0,Entry-level,Full-time,India
+2021,EN,FT,Big Data Engineer,1200000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,73.918,16234.0,Entry-level,Full-time,India
+2021,EN,FT,Big Data Engineer,1200000.0,INR,IN,100,Fully remote,IN,L,Data Engineering,80.2144,14960.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,1600000.0,INR,IN,50,Hybird,IN,M,Data Engineering,74.1,21592.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,1600000.0,INR,IN,50,Hybird,IN,M,Data Engineering,73.918,21646.0,Entry-level,Full-time,India
+2021,EN,FT,Data Engineer,1600000.0,INR,IN,50,Hybird,IN,M,Data Engineering,80.2144,19947.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2100000.0,INR,IN,100,Fully remote,IN,M,Data Science,74.1,28340.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2100000.0,INR,IN,100,Fully remote,IN,M,Data Science,73.918,28410.0,Entry-level,Full-time,India
+2021,EN,FT,Data Scientist,2100000.0,INR,IN,100,Fully remote,IN,M,Data Science,80.2144,26180.0,Entry-level,Full-time,India
+2022,EN,FT,Data Scientist,1400000.0,INR,IN,100,Fully remote,IN,M,Data Science,74.1,18893.0,Entry-level,Full-time,India
+2022,EN,FT,Data Scientist,1400000.0,INR,IN,100,Fully remote,IN,M,Data Science,73.918,18940.0,Entry-level,Full-time,India
+2022,EN,FT,Data Scientist,1400000.0,INR,IN,100,Fully remote,IN,M,Data Science,80.2144,17453.0,Entry-level,Full-time,India
+2021,SE,FT,Lead Data Scientist,3000000.0,INR,IN,50,Hybird,IN,L,Data Science,74.1,40486.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Lead Data Scientist,3000000.0,INR,IN,50,Hybird,IN,L,Data Science,73.918,40586.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Lead Data Scientist,3000000.0,INR,IN,50,Hybird,IN,L,Data Science,80.2144,37400.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,1799997.0,INR,IN,100,Fully remote,IN,L,Machine Learning,74.1,24291.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,1799997.0,INR,IN,100,Fully remote,IN,L,Machine Learning,73.918,24351.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,1799997.0,INR,IN,100,Fully remote,IN,L,Machine Learning,80.2144,22440.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,4900000.0,INR,IN,0,On-site only,IN,L,Machine Learning,74.1,66127.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,4900000.0,INR,IN,0,On-site only,IN,L,Machine Learning,73.918,66290.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Machine Learning Engineer,4900000.0,INR,IN,0,On-site only,IN,L,Machine Learning,80.2144,61086.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Data Science Manager,7000000.0,INR,IN,50,Hybird,IN,L,Leadership (DS),74.1,94467.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Data Science Manager,7000000.0,INR,IN,50,Hybird,IN,L,Leadership (DS),73.918,94700.0,Senior-level (Intermediate),Full-time,India
+2021,SE,FT,Data Science Manager,7000000.0,INR,IN,50,Hybird,IN,L,Leadership (DS),80.2144,87266.0,Senior-level (Intermediate),Full-time,India
+2022,EX,FT,Head of Machine Learning,6000000.0,INR,IN,50,Hybird,IN,L,Leadership (ML),74.1,80972.0,Executive-level / Director (Expert),Full-time,India
+2022,EX,FT,Head of Machine Learning,6000000.0,INR,IN,50,Hybird,IN,L,Leadership (ML),73.918,81171.0,Executive-level / Director (Expert),Full-time,India
+2022,EX,FT,Head of Machine Learning,6000000.0,INR,IN,50,Hybird,IN,L,Leadership (ML),80.2144,74800.0,Executive-level / Director (Expert),Full-time,India
+2021,MI,PT,3D Computer Vision Researcher,400000.0,INR,IN,50,Hybird,IN,M,Artificial Intelligence,74.1,5398.0,Mid-level (Junior),Part-time,India
+2021,MI,PT,3D Computer Vision Researcher,400000.0,INR,IN,50,Hybird,IN,M,Artificial Intelligence,73.918,5411.0,Mid-level (Junior),Part-time,India
+2021,MI,PT,3D Computer Vision Researcher,400000.0,INR,IN,50,Hybird,IN,M,Artificial Intelligence,80.2144,4987.0,Mid-level (Junior),Part-time,India
+2020,MI,FT,Machine Learning Engineer,299000.0,CNY,CN,0,On-site only,CN,M,Machine Learning,6.901,43327.0,Mid-level (Junior),Full-time,China
+2020,MI,FT,Machine Learning Engineer,299000.0,CNY,CN,0,On-site only,CN,M,Machine Learning,6.449,46364.0,Mid-level (Junior),Full-time,China
+2020,MI,FT,Machine Learning Engineer,299000.0,CNY,CN,0,On-site only,CN,M,Machine Learning,7.0089,42660.0,Mid-level (Junior),Full-time,China
+2021,EN,FT,Research Scientist,100000.0,USD,JE,0,On-site only,CN,L,Research,1.0,100000.0,Entry-level,Full-time,China
+2021,MI,FT,Data Scientist,58000.0,MXN,MX,0,On-site only,MX,S,Data Science,21.486,2699.0,Mid-level (Junior),Full-time,Mexico
+2021,MI,FT,Data Scientist,58000.0,MXN,MX,0,On-site only,MX,S,Data Science,20.272,2861.0,Mid-level (Junior),Full-time,Mexico
+2021,MI,FT,Data Scientist,58000.0,MXN,MX,0,On-site only,MX,S,Data Science,20.053,2892.0,Mid-level (Junior),Full-time,Mexico
+2022,SE,FT,Data Science Engineer,60000.0,USD,AR,100,Fully remote,MX,L,Data Engineering,1.0,60000.0,Senior-level (Intermediate),Full-time,Mexico
+2020,SE,FT,Data Engineer,720000.0,MXN,MX,0,On-site only,MX,S,Data Engineering,21.486,33510.0,Senior-level (Intermediate),Full-time,Mexico
+2020,SE,FT,Data Engineer,720000.0,MXN,MX,0,On-site only,MX,S,Data Engineering,20.272,35517.0,Senior-level (Intermediate),Full-time,Mexico
+2020,SE,FT,Data Engineer,720000.0,MXN,MX,0,On-site only,MX,S,Data Engineering,20.053,35905.0,Senior-level (Intermediate),Full-time,Mexico
+2021,MI,FT,Data Engineer,110000.0,PLN,PL,100,Fully remote,PL,L,Data Engineering,3.9,28205.0,Mid-level (Junior),Full-time,Poland
+2021,MI,FT,Data Engineer,110000.0,PLN,PL,100,Fully remote,PL,L,Data Engineering,3.862,28483.0,Mid-level (Junior),Full-time,Poland
+2021,MI,FT,Data Engineer,110000.0,PLN,PL,100,Fully remote,PL,L,Data Engineering,4.7826,23000.0,Mid-level (Junior),Full-time,Poland
+2021,MI,FT,Machine Learning Engineer,180000.0,PLN,PL,100,Fully remote,PL,L,Machine Learning,3.9,46154.0,Mid-level (Junior),Full-time,Poland
+2021,MI,FT,Machine Learning Engineer,180000.0,PLN,PL,100,Fully remote,PL,L,Machine Learning,3.862,46608.0,Mid-level (Junior),Full-time,Poland
+2021,MI,FT,Machine Learning Engineer,180000.0,PLN,PL,100,Fully remote,PL,L,Machine Learning,4.7826,37636.0,Mid-level (Junior),Full-time,Poland
+2022,MI,FT,Data Scientist,150000.0,PLN,PL,100,Fully remote,PL,L,Data Science,3.9,38462.0,Mid-level (Junior),Full-time,Poland
+2022,MI,FT,Data Scientist,150000.0,PLN,PL,100,Fully remote,PL,L,Data Science,3.862,38840.0,Mid-level (Junior),Full-time,Poland
+2022,MI,FT,Data Scientist,150000.0,PLN,PL,100,Fully remote,PL,L,Data Science,4.7826,31364.0,Mid-level (Junior),Full-time,Poland
+2021,EX,FT,Director of Data Science,130000.0,EUR,IT,100,Fully remote,PL,L,Leadership (DS),0.876,148402.0,Executive-level / Director (Expert),Full-time,Poland
+2021,EX,FT,Director of Data Science,130000.0,EUR,IT,100,Fully remote,PL,L,Leadership (DS),0.845,153846.0,Executive-level / Director (Expert),Full-time,Poland
+2021,EX,FT,Director of Data Science,130000.0,EUR,IT,100,Fully remote,PL,L,Leadership (DS),1.0093,128802.0,Executive-level / Director (Expert),Full-time,Poland
+2021,MI,FT,Data Scientist,160000.0,SGD,SG,100,Fully remote,IL,M,Data Science,1.38,115942.0,Mid-level (Junior),Full-time,Israel
+2021,MI,FT,Data Scientist,160000.0,SGD,SG,100,Fully remote,IL,M,Data Science,1.343,119136.0,Mid-level (Junior),Full-time,Israel
+2021,MI,FT,Data Scientist,160000.0,SGD,SG,100,Fully remote,IL,M,Data Science,1.413,113234.0,Mid-level (Junior),Full-time,Israel
+2021,MI,FT,Data Scientist,69600.0,BRL,BR,0,On-site only,BR,S,Data Science,5.155,13501.0,Mid-level (Junior),Full-time,Brazil
+2021,MI,FT,Data Scientist,69600.0,BRL,BR,0,On-site only,BR,S,Data Science,5.394,12903.0,Mid-level (Junior),Full-time,Brazil
+2021,MI,FT,Data Scientist,69600.0,BRL,BR,0,On-site only,BR,S,Data Science,5.2292,13310.0,Mid-level (Junior),Full-time,Brazil
+2021,SE,FT,Computer Vision Engineer,24000.0,USD,BR,100,Fully remote,BR,M,Artificial Intelligence,1.0,24000.0,Senior-level (Intermediate),Full-time,Brazil
+2021,SE,FT,Computer Vision Engineer,102000.0,BRL,BR,0,On-site only,BR,M,Artificial Intelligence,5.155,19787.0,Senior-level (Intermediate),Full-time,Brazil
+2021,SE,FT,Computer Vision Engineer,102000.0,BRL,BR,0,On-site only,BR,M,Artificial Intelligence,5.394,18910.0,Senior-level (Intermediate),Full-time,Brazil
+2021,SE,FT,Computer Vision Engineer,102000.0,BRL,BR,0,On-site only,BR,M,Artificial Intelligence,5.2292,19506.0,Senior-level (Intermediate),Full-time,Brazil
+2021,MI,FT,Data Engineer,108000.0,TRY,TR,0,On-site only,TR,M,Data Engineering,7.009,15409.0,Mid-level (Junior),Full-time,Turkey
+2021,MI,FT,Data Engineer,108000.0,TRY,TR,0,On-site only,TR,M,Data Engineering,8.85,12203.0,Mid-level (Junior),Full-time,Turkey
+2021,MI,FT,Data Engineer,108000.0,TRY,TR,0,On-site only,TR,M,Data Engineering,18.2967,5903.0,Mid-level (Junior),Full-time,Turkey
+2021,SE,FT,Data Scientist,180000.0,TRY,TR,50,Hybird,TR,L,Data Science,7.009,25681.0,Senior-level (Intermediate),Full-time,Turkey
+2021,SE,FT,Data Scientist,180000.0,TRY,TR,50,Hybird,TR,L,Data Science,8.85,20339.0,Senior-level (Intermediate),Full-time,Turkey
+2021,SE,FT,Data Scientist,180000.0,TRY,TR,50,Hybird,TR,L,Data Science,18.2967,9838.0,Senior-level (Intermediate),Full-time,Turkey
+2022,MI,FT,Machine Learning Engineer,121000.0,AUD,AU,100,Fully remote,AU,L,Machine Learning,1.453,83276.0,Mid-level (Junior),Full-time,Australia
+2022,MI,FT,Machine Learning Engineer,121000.0,AUD,AU,100,Fully remote,AU,L,Machine Learning,1.331,90909.0,Mid-level (Junior),Full-time,Australia
+2022,MI,FT,Machine Learning Engineer,121000.0,AUD,AU,100,Fully remote,AU,L,Machine Learning,1.4962,80872.0,Mid-level (Junior),Full-time,Australia
+2022,EN,FT,Computer Vision Software Engineer,150000.0,USD,AU,100,Fully remote,AU,S,Artificial Intelligence,1.0,150000.0,Entry-level,Full-time,Australia
+2022,EN,FT,Data Scientist,120000.0,AUD,AU,50,Hybird,AU,M,Data Science,1.453,82588.0,Entry-level,Full-time,Australia
+2022,EN,FT,Data Scientist,120000.0,AUD,AU,50,Hybird,AU,M,Data Science,1.331,90158.0,Entry-level,Full-time,Australia
+2022,EN,FT,Data Scientist,120000.0,AUD,AU,50,Hybird,AU,M,Data Science,1.4962,80203.0,Entry-level,Full-time,Australia
+2022,MI,FT,Data Scientist,115000.0,CHF,CH,0,On-site only,CH,L,Data Science,0.973,118191.0,Mid-level (Junior),Full-time,Switzerland
+2021,EN,FT,Big Data Engineer,435000.0,INR,IN,0,On-site only,CH,L,Data Engineering,74.1,5870.0,Entry-level,Full-time,Switzerland
+2021,EN,FT,Big Data Engineer,435000.0,INR,IN,0,On-site only,CH,L,Data Engineering,73.918,5885.0,Entry-level,Full-time,Switzerland
+2021,EN,FT,Big Data Engineer,435000.0,INR,IN,0,On-site only,CH,L,Data Engineering,80.2144,5423.0,Entry-level,Full-time,Switzerland
+2021,EN,FT,Machine Learning Developer,100000.0,USD,IQ,50,Hybird,IQ,S,Machine Learning,1.0,100000.0,Entry-level,Full-time,Iraq
+2021,EN,FT,Machine Learning Engineer,21844.0,USD,CO,50,Hybird,CO,M,Machine Learning,1.0,21844.0,Entry-level,Full-time,Colombia
+2021,EN,FT,BI Data Analyst,9272.0,USD,KE,100,Fully remote,KE,S,Data Analyst,1.0,9272.0,Entry-level,Full-time,Kenya
+2021,EN,FT,Data Scientist,4000.0,USD,VN,0,On-site only,VN,M,Data Science,1.0,4000.0,Entry-level,Full-time,Vietnam
+2022,EN,FT,Data Scientist,40000.0,USD,JP,100,Fully remote,MY,L,Data Science,1.0,40000.0,Entry-level,Full-time,Malaysia
+2020,EN,FT,AI Scientist,300000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,6.542,45858.0,Entry-level,Full-time,Denmark
+2020,EN,FT,AI Scientist,300000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,6.287,47718.0,Entry-level,Full-time,Denmark
+2020,EN,FT,AI Scientist,300000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,7.5084,39955.0,Entry-level,Full-time,Denmark
+2021,SE,FT,Marketing Data Analyst,75000.0,EUR,GR,100,Fully remote,DK,L,Data Analyst,0.876,85616.0,Senior-level (Intermediate),Full-time,Denmark
+2021,SE,FT,Marketing Data Analyst,75000.0,EUR,GR,100,Fully remote,DK,L,Data Analyst,0.845,88757.0,Senior-level (Intermediate),Full-time,Denmark
+2021,SE,FT,Marketing Data Analyst,75000.0,EUR,GR,100,Fully remote,DK,L,Data Analyst,1.0093,74309.0,Senior-level (Intermediate),Full-time,Denmark
+2021,EN,PT,Computer Vision Engineer,180000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,6.542,27515.0,Entry-level,Part-time,Denmark
+2021,EN,PT,Computer Vision Engineer,180000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,6.287,28631.0,Entry-level,Part-time,Denmark
+2021,EN,PT,Computer Vision Engineer,180000.0,DKK,DK,50,Hybird,DK,S,Artificial Intelligence,7.5084,23973.0,Entry-level,Part-time,Denmark
+2020,SE,FT,Machine Learning Engineer,40000.0,EUR,HR,100,Fully remote,HR,S,Machine Learning,0.876,45662.0,Senior-level (Intermediate),Full-time,Croatia
+2020,SE,FT,Machine Learning Engineer,40000.0,EUR,HR,100,Fully remote,HR,S,Machine Learning,0.845,47337.0,Senior-level (Intermediate),Full-time,Croatia
+2020,SE,FT,Machine Learning Engineer,40000.0,EUR,HR,100,Fully remote,HR,S,Machine Learning,1.0093,39631.0,Senior-level (Intermediate),Full-time,Croatia
+2022,SE,FT,Machine Learning Engineer,65000.0,EUR,IE,100,Fully remote,IE,S,Machine Learning,0.876,74201.0,Senior-level (Intermediate),Full-time,Ireland
+2022,SE,FT,Machine Learning Engineer,65000.0,EUR,IE,100,Fully remote,IE,S,Machine Learning,0.845,76923.0,Senior-level (Intermediate),Full-time,Ireland
+2022,SE,FT,Machine Learning Engineer,65000.0,EUR,IE,100,Fully remote,IE,S,Machine Learning,1.0093,64401.0,Senior-level (Intermediate),Full-time,Ireland
+2020,SE,FT,Lead Data Engineer,125000.0,USD,NZ,50,Hybird,NZ,S,Data Engineering,1.0,125000.0,Senior-level (Intermediate),Full-time,New Zealand
+2021,EX,FT,Head of Data,230000.0,USD,RU,50,Hybird,RU,L,Leadership (DS),1.0,230000.0,Executive-level / Director (Expert),Full-time,Russia
+2021,EX,FT,Head of Data Science,85000.0,USD,RU,0,On-site only,RU,M,Leadership (DS),1.0,85000.0,Executive-level / Director (Expert),Full-time,Russia
+2022,EN,PT,Data Scientist,100000.0,USD,DZ,50,Hybird,DZ,M,Data Science,1.0,100000.0,Entry-level,Part-time,Algeria
